@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/elvis/static/css/main.d484ed85.chunk.css",
+    "main.js": "/elvis/static/js/main.45c80350.chunk.js",
+    "main.js.map": "/elvis/static/js/main.45c80350.chunk.js.map",
+    "runtime~main.js": "/elvis/static/js/runtime~main.a0bc3905.js",
+    "runtime~main.js.map": "/elvis/static/js/runtime~main.a0bc3905.js.map",
+    "static/css/2.600dfb7d.chunk.css": "/elvis/static/css/2.600dfb7d.chunk.css",
+    "static/js/2.ff97481a.chunk.js": "/elvis/static/js/2.ff97481a.chunk.js",
+    "static/js/2.ff97481a.chunk.js.map": "/elvis/static/js/2.ff97481a.chunk.js.map",
+    "index.html": "/elvis/index.html",
+    "precache-manifest.76b2be555b391c6afe2cb93c1b5983c0.js": "/elvis/precache-manifest.76b2be555b391c6afe2cb93c1b5983c0.js",
+    "service-worker.js": "/elvis/service-worker.js",
+    "static/css/2.600dfb7d.chunk.css.map": "/elvis/static/css/2.600dfb7d.chunk.css.map",
+    "static/css/main.d484ed85.chunk.css.map": "/elvis/static/css/main.d484ed85.chunk.css.map"
+  }
+}
