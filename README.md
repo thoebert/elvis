@@ -4,6 +4,10 @@ _easy l-system visualization._
 
 JS implementation of a parametric l-system rewriting engine with interactive editor and visualization.
 
+![](screenshot.png)
+
+![](teaser.gif)
+
 ## Features
 
 * Visualization of 3D and 2D l-systems
