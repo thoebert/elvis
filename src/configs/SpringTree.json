@@ -1,0 +1,13 @@
+{
+  "iterations": "5",
+  "axiom": "Color(0.3,0.2,0.1)F(3,0.9)X(3,1)",
+  "productions": [
+    "X(l,d) -> F(l,d)[-&&&X(l,d)][--^^X(l,d)]F(l,d)[-&X(l,d)]L(d)+F(l,d)L(d)^X(l,d)",
+    "F(l,d) -> F(l*0.9,d*1.4)F(l*0.8,d*1.4)",
+    "L(d)->[Color(0.1,0.7,0.1)Box(d*5)] "
+  ],
+  "angle": "30",
+  "diameter": 0,
+  "length": 3,
+  "autorotate": true
+}

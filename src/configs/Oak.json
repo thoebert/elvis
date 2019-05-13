@@ -1,0 +1,11 @@
+{
+  "iterations": "5",
+  "axiom": "Color(0.3,0.2,0.1)B(5,1)",
+  "productions": [
+    "B(l,w)->&F(l*0.9,w*0.9)[^+&&B(l*0.7,w*0.8)]F(l*0.8,w*0.8)[+^^^B(l*0.7,w*0.8)]F(l*0.7,w*0.6)[-&B(l*0.6,w*0.7)][+B(l*0.7,w*0.6)]^B(l*0.6,w*0.6)"
+  ],
+  "angle": "25",
+  "diameter": "1",
+  "length": "5",
+  "autorotate": true
+}

@@ -1,0 +1,9 @@
+{
+  "iterations": "4",
+  "axiom": "F++F++F+++F--F--F",
+  "productions": [
+    "F -> FF++F++F++FFF"
+  ],
+  "diameter": 0,
+  "length": 5
+}

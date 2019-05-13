@@ -1,0 +1,44 @@
+.splitter-layout > .layout-splitter {
+    background-color: #434343;
+}
+
+.checkboxgroup > span {
+    padding-left: 0px !important;
+}
+
+#sidebar {
+    padding: 10px;
+    display: block;
+    height: 100%;
+}
+
+.layout-pane, body {
+    background-color: #121212;
+}
+
+#sidebar > * {
+    margin: 10px 0 10px 0;
+}
+
+#configbar > * {
+    margin-right: 10px;
+}
+
+#configbar {
+    display: flex;
+}
+
+#canvas{
+    width: 100%;
+    height: 100%;
+}
+
+.inputGroup{
+    position: relative;
+}
+
+.description{
+    font-size: small !important;
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+

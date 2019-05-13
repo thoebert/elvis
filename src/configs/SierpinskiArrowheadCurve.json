@@ -1,0 +1,10 @@
+{
+    "iterations": 5,
+    "axiom": "F",
+    "angle": 60,
+    "productions": [
+        "F -> G-F-G",
+        "G -> F+G+F"],
+    "diameter": 0,
+    "length": 5
+}

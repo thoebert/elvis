@@ -1,0 +1,10 @@
+{
+    "iterations": 3,
+    "axiom": "X",
+    "angle": 90,
+    "productions": [
+        "X -> XFYFX+F+YFXFY-F-XFYFX",
+        "Y -> YFXFY-F-XFYFX+F+YFXFY"],
+    "diameter": 0,
+    "length": 5
+}

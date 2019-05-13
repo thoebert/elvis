@@ -1,0 +1,31 @@
+{
+  "iterations": "4",
+  "axiom": "Color(0.25,0.2,0.5)F(0.1,15)Color(0.2,0.2,0.2)F(0.4,10)Color(0,0,0)B(5,1)",
+  "productions": [
+    "B(l,w)->&F(l*0.9,w*0.9)[^+&&B(l*0.7,w*0.8)]F(l*0.8,w*0.8)[+^^^B(l*0.7,w*0.8)L(w)]F(l*0.7,w*0.6)[-&B(l*0.6,w*0.7)L(w)][+B(l*0.7,w*0.6)L(w)]^B(l*0.6,w*0.6)",
+    "L(w)->[Color(0,0,0)EmColor(0.2+rand*0.25, 0.2, 0.5)Box(w*2)]"
+  ],
+  "angle": "33",
+  "diameter": "1",
+  "length": "5",
+  "autorotate": true,
+  "lights": [
+    {
+      "type": "hemispheric",
+      "direction": [0, 20, 0],
+      "intensity": 1,
+      "diffuseColor": [0.3, 0.5, 0.6],
+      "groundColor": [0.5, 0.4, 0.25]
+    },
+    {
+      "type": "directional",
+      "direction": [10, 20, 15],
+      "intensity": 0.7
+    },
+    {
+      "type": "point",
+      "position": [0, 2, 0],
+      "intensity": 2
+    }
+  ]
+}

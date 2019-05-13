@@ -3,9 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "@material-ui/icons": "^3.0.2",
+    "babylonjs": "^4.0.3",
+    "babylonjs-gui": "^4.0.3",
+    "babylonjs-inspector": "^4.0.3",
+    "babylonjs-loaders": "^4.0.3",
+    "mathjs": "^5.9.0",
+    "pepjs": "^0.5.2",
     "react": "^16.8.6",
+    "react-babylonjs": "^1.0.3",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.0",
+    "react-splitter-layout": "^4.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
